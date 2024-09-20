@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-root{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.logo-name{
+    font-size: 28px;
+    font-weight: 500px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-flex;
+    padding:0px 10px;
+}
+.list{
+    margin-left:  -110px;
+}
+.input-field input{
+    width: 400px;
+    height: 25px;
+    margin-left: -100px;
+}
+.si-so{
+    margin: 0px 20px;
+}
+.banner-block img{
+    width: 100%;
+    height: auto;
+}
+.image-men{
+    display: flex;
+}
+.mens-fashion-component img{
+    height: 250px;
+    width: 244px;
+    margin: 5px;
+}
+.footer-img img{
+    width: 100%;
+    height: auto;
+}
